@@ -1,0 +1,4 @@
+sma signals:
+up-down_23.10.05;down-up_23.10.24;up-down_23.10.31;down-up_23.11.01;up-down_23.11.02;down-up_23.11.06;up-down_23.12.06;down-up_23.12.07;up-down_23.12.08;down-up_23.12.13;up-down_23.12.14;down-up_23.12.20;up-down_24.01.04;down-up_24.01.25;up-down_24.01.30;down-up_24.01.31;up-down_24.02.27;down-up_24.03.13;up-down_24.04.01;down-up_24.04.22;up-down_24.05.15;down-up_24.05.16;up-down_24.06.28;down-up_24.07.09;up-down_24.07.15;down-up_24.07.31;up-down_24.08.12;down-up_24.08.13;up-down_24.08.23;down-up_24.08.26;
+macd signals:
+down-up_23.10.16;down-up_23.10.30;up-down_23.10.31;down-up_23.11.01;down-up_23.11.06;up-down_23.12.06;down-up_24.01.23;up-down_24.03.22;down-up_24.04.19;up-down_24.06.24;up-down_24.07.08;up-down_24.07.10;down-up_24.07.24;up-down_24.08.23;
