@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432e8b63-2ff5-4b50-a59f-495ca6f33c97" name="Changes" comment="version_0">
-      <change afterPath="$PROJECT_DIR$/data/GAZP_230917_240827.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/GAZP_240801_240827.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/indicators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/strategy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/visualizer.py" afterDir="false" />
+    <list default="true" id="432e8b63-2ff5-4b50-a59f-495ca6f33c97" name="Changes" comment="version_0.1(loading)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/strategy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,12 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1743347036310</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version_0.1(loading)">
+      <option name="closed" value="true" />
+      <created>1743952271432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743952271432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version_0" />
-    <option name="LAST_COMMIT_MESSAGE" value="version_0" />
+    <MESSAGE value="version_0.1(loading)" />
+    <option name="LAST_COMMIT_MESSAGE" value="version_0.1(loading)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
