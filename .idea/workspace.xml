@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="432e8b63-2ff5-4b50-a59f-495ca6f33c97" name="Changes" comment="version_0.1(loading)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/strategy.py" afterDir="false" />
-    </list>
+    <list default="true" id="432e8b63-2ff5-4b50-a59f-495ca6f33c97" name="Changes" comment="version_1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,20 +104,37 @@
       <option name="project" value="LOCAL" />
       <updated>1743952271432</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="version_0.1(loading)">
+      <option name="closed" value="true" />
+      <created>1745077507469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745077507469</updated>
+    </task>
+    <task id="LOCAL-00005" summary="version_1.0">
+      <option name="closed" value="true" />
+      <created>1745077562728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745077562728</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version_0" />
     <MESSAGE value="version_0.1(loading)" />
-    <option name="LAST_COMMIT_MESSAGE" value="version_0.1(loading)" />
+    <MESSAGE value="version_1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version_1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>66</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
